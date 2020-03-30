@@ -1,2 +1,2 @@
 # Covid-19_World_Cases_Interactive
-Interactive Map
+https://makaay2077.github.io/Covid-19_World_Cases_Interactive/.
